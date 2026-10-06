@@ -1,0 +1,6 @@
+{
+  "name": "CampusHub - College ERP & Management System",
+  "description": "Production-ready full-stack College ERP and Management portal with live student performance analytics, timetable, fee payments, and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
